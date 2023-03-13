@@ -67,8 +67,8 @@ def main():
         
     st.sidebar.title("📌 Index")
     col1, mid, col2 = st.beta_columns([1,1,20])
-    with col1:
-        st.image('static/logoKaduceo.png', width=60)
+    #with col1:
+        #st.image('static/logoKaduceo.png', width=60)
     with col2:
         st.title("KeoClean")
 
