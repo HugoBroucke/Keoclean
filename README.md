@@ -1,6 +1,8 @@
 # KeoClean
 
-Bienvenue sur le projet Keoclean. Keoclean est une application Streamlit permettant de diagnostiquer l'état d'un dataset, de nettoyer le datatset et de l'enrichir avec de nouvelles variables.
+Bienvenue sur le projet Keoclean. Keoclean est une application Streamlit permettant de diagnostiquer l'état d'un dataset, de nettoyer le datatset et de l'enrichir avec de nouvelles variables. La vidéo ci-dessous montre un exemple d'utilisation de l'outil.
+
+[![Watch the video](https://i.imgur.com/zzUz9vt.png)](https://youtu.be/zkkAqZ-zobM)
 
 ## Instructions pour exécuter l'application sous Linux
 
