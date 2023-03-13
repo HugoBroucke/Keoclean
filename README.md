@@ -1,5 +1,7 @@
 # KeoClean
 
+Bienvenue sur le projet Keoclean. Keoclean est une application Streamlit permettant de diagnostiquer l'état d'un dataset, de nettoyer le datatset et de l'enrichir avec de nouvelles variables.
+
 ## Instructions pour exécuter l'application sous Linux
 
 **1. Cloner le repository et créer un environnement**
@@ -20,7 +22,7 @@ Une page devrait s'ouvrir dans votre navigateur. Si ce n'est pas le cas, entrez 
 
 **1. Cloner le repository**
 
-`git clone https://mongit.kaduceo.com/hb/keoclean.git`
+`git clone https://github.com/HugoBroucke/Keoclean.git`
 
 **2. Créer et activer l'environnement**
 
